@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260731-210839-qahm",
+      "title": "D A N T E S Inferno",
+      "commanders": [
+        "D A N T E S Inferno"
+      ],
+      "dateStart": "2026-08-01T02:08:39.000Z",
+      "dateEnd": "2026-08-01T03:07:49.000Z",
+      "dateLabel": "7/31/2026, 9:08:39 PM - 7/31/2026, 10:07:49 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260731-210839-qahm",
+      "summary": {
+        "borderlandsPct": 0.05263157894736842,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 60
+      }
+    },
+    {
       "id": "20260729-221247-pms7",
       "title": "N Á M Í",
       "commanders": [
