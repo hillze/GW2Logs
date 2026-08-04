@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260803-201200-0g79",
+      "title": "P L A T I N U M",
+      "commanders": [
+        "P L A T I N U M"
+      ],
+      "dateStart": "2026-08-04T01:12:00.000Z",
+      "dateEnd": "2026-08-04T02:06:51.000Z",
+      "dateLabel": "8/3/2026, 8:12:00 PM - 8/3/2026, 9:06:51 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260803-201200-0g79",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 59,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260731-210839-qahm",
       "title": "D A N T E S Inferno",
       "commanders": [
