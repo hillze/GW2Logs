@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260807-210841-61fn",
+      "title": "I N S A T I A B L E",
+      "commanders": [
+        "I N S A T I A B L E"
+      ],
+      "dateStart": "2026-08-08T02:08:41.000Z",
+      "dateEnd": "2026-08-08T03:03:57.000Z",
+      "dateLabel": "8/7/2026, 9:08:41 PM - 8/7/2026, 10:03:57 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260807-210841-61fn",
+      "summary": {
+        "borderlandsPct": 0.10810810810810811,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 33,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260805-200940-shoo",
       "title": "N Á M Í",
       "commanders": [
