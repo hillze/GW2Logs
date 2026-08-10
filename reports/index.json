@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260809-200922-sc2k",
+      "title": "Meester Dopie",
+      "commanders": [
+        "Meester Dopie"
+      ],
+      "dateStart": "2026-08-10T01:09:22.000Z",
+      "dateEnd": "2026-08-10T02:30:28.000Z",
+      "dateLabel": "8/9/2026, 8:09:22 PM - 8/9/2026, 9:30:28 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260809-200922-sc2k",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 38,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260807-210841-61fn",
       "title": "I N S A T I A B L E",
       "commanders": [
