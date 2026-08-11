@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260810-201850-lcer",
+      "title": "Namí San",
+      "commanders": [
+        "Namí San"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-11T01:18:50.000Z",
+      "dateEnd": "2026-08-11T02:26:47.000Z",
+      "dateLabel": "8/10/2026, 8:18:50 PM - 8/10/2026, 9:26:47 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260810-201850-lcer",
+      "summary": {
+        "borderlandsPct": 0.03225806451612903,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260809-200922-sc2k",
       "title": "Meester Dopie",
       "commanders": [
