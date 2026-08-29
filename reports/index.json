@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260828-211724-c3ma",
+      "title": "P L A T I N U M",
+      "commanders": [
+        "P L A T I N U M"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-29T02:17:24.000Z",
+      "dateEnd": "2026-08-29T03:27:27.086Z",
+      "dateLabel": "8/28/2026, 9:17:24 PM - 8/28/2026, 10:27:27 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260828-211724-c3ma",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 72
+      }
+    },
+    {
       "id": "20260824-202313-oaoq",
       "title": "P L A T I N U M",
       "commanders": [
