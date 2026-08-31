@@ -4,6 +4,41 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-202310-qe3s",
+      "title": "Meester Dopie, P L A T I N U M, Pixel Paper Doll",
+      "commanders": [
+        "Meester Dopie",
+        "P L A T I N U M",
+        "Pixel Paper Doll"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-31T01:23:10.000Z",
+      "dateEnd": "2026-08-31T04:19:02.802Z",
+      "dateLabel": "8/30/2026, 8:23:10 PM - 8/30/2026, 11:19:02 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260830-202310-qe3s",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260828-211724-c3ma",
       "title": "P L A T I N U M",
       "commanders": [
