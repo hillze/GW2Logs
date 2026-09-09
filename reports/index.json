@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260907-212249-qbp5",
+      "title": "Namí San, Pixel Paper Doll",
+      "commanders": [
+        "Namí San",
+        "Pixel Paper Doll"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-08T02:22:49.000Z",
+      "dateEnd": "2026-09-08T03:35:02.313Z",
+      "dateLabel": "9/7/2026, 9:22:49 PM - 9/7/2026, 10:35:02 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260907-212249-qbp5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 60
+      }
+    },
+    {
       "id": "20260902-201138-0qse",
       "title": "P L A T I N U M",
       "commanders": [
