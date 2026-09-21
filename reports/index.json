@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260920-200928-8x2w",
+      "title": "Meester Dopie",
+      "commanders": [
+        "Meester Dopie"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-21T01:09:28.000Z",
+      "dateEnd": "2026-09-21T01:47:47.450Z",
+      "dateLabel": "9/20/2026, 8:09:28 PM - 9/20/2026, 8:47:47 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260920-200928-8x2w",
+      "summary": {
+        "borderlandsPct": 0.75,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260920-200928-dps3",
       "title": "Meester Dopie",
       "commanders": [
