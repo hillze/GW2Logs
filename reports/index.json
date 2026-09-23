@@ -1,625 +1,659 @@
-[
-  {
-    "id": "20260920-200928-8x2w",
-    "title": "Meester Dopie",
-    "commanders": [
-      "Meester Dopie"
-    ],
-    "guild": {
-      "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
-      "name": "Eye Of Tyria",
-      "tag": "EYE"
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "axiDesign": false,
+  "entries": [
+    {
+      "id": "20260921-212253-6c7v",
+      "title": "K A L A D Î N",
+      "commanders": [
+        "K A L A D Î N"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-22T02:22:53.000Z",
+      "dateEnd": "2026-09-22T03:45:25.658Z",
+      "dateLabel": "9/21/2026, 9:22:53 PM - 9/21/2026, 10:45:25 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260921-212253-6c7v",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 48
+      }
     },
-    "dateStart": "2026-09-21T01:09:28.000Z",
-    "dateEnd": "2026-09-21T01:47:47.450Z",
-    "dateLabel": "9/20/2026, 8:09:28 PM - 9/20/2026, 8:47:47 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260920-200928-8x2w",
-    "summary": {
-      "borderlandsPct": 0.75,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 26,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 10,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 4,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260920-200928-8x2w",
+      "title": "Meester Dopie",
+      "commanders": [
+        "Meester Dopie"
       ],
-      "avgSquadSize": 24,
-      "avgEnemySize": 40
-    }
-  },
-  {
-    "id": "20260911-211323-bogc",
-    "title": "Pixel Paper Doll",
-    "commanders": [
-      "Pixel Paper Doll"
-    ],
-    "guild": {
-      "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
-      "name": "Eye Of Tyria",
-      "tag": "EYE"
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-21T01:09:28.000Z",
+      "dateEnd": "2026-09-21T01:47:47.450Z",
+      "dateLabel": "9/20/2026, 8:09:28 PM - 9/20/2026, 8:47:47 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260920-200928-8x2w",
+      "summary": {
+        "borderlandsPct": 0.75,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 40
+      }
     },
-    "dateStart": "2026-09-12T02:13:23.000Z",
-    "dateEnd": "2026-09-12T03:11:28.311Z",
-    "dateLabel": "9/11/2026, 9:13:23 PM - 9/11/2026, 10:11:28 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260911-211323-bogc",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 46,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260911-211323-bogc",
+      "title": "Pixel Paper Doll",
+      "commanders": [
+        "Pixel Paper Doll"
       ],
-      "avgSquadSize": 38,
-      "avgEnemySize": 55
-    }
-  },
-  {
-    "id": "20260907-212249-qbp5",
-    "title": "Namí San, Pixel Paper Doll",
-    "commanders": [
-      "Namí San",
-      "Pixel Paper Doll"
-    ],
-    "guild": {
-      "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
-      "name": "Eye Of Tyria",
-      "tag": "EYE"
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-12T02:13:23.000Z",
+      "dateEnd": "2026-09-12T03:11:28.311Z",
+      "dateLabel": "9/11/2026, 9:13:23 PM - 9/11/2026, 10:11:28 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260911-211323-bogc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 46,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 55
+      }
     },
-    "dateStart": "2026-09-08T02:22:49.000Z",
-    "dateEnd": "2026-09-08T03:35:02.313Z",
-    "dateLabel": "9/7/2026, 9:22:49 PM - 9/7/2026, 10:35:02 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260907-212249-qbp5",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 30,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260907-212249-qbp5",
+      "title": "Namí San, Pixel Paper Doll",
+      "commanders": [
+        "Namí San",
+        "Pixel Paper Doll"
       ],
-      "avgSquadSize": 40,
-      "avgEnemySize": 60
-    }
-  },
-  {
-    "id": "20260902-201138-0qse",
-    "title": "P L A T I N U M",
-    "commanders": [
-      "P L A T I N U M"
-    ],
-    "guild": {
-      "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
-      "name": "Eye Of Tyria",
-      "tag": "EYE"
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-08T02:22:49.000Z",
+      "dateEnd": "2026-09-08T03:35:02.313Z",
+      "dateLabel": "9/7/2026, 9:22:49 PM - 9/7/2026, 10:35:02 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260907-212249-qbp5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 60
+      }
     },
-    "dateStart": "2026-09-03T01:11:38.000Z",
-    "dateEnd": "2026-09-03T02:45:58.653Z",
-    "dateLabel": "9/2/2026, 8:11:38 PM - 9/2/2026, 9:45:58 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260902-201138-0qse",
-    "summary": {
-      "borderlandsPct": 0.08695652173913043,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 21,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 2,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260902-201138-0qse",
+      "title": "P L A T I N U M",
+      "commanders": [
+        "P L A T I N U M"
       ],
-      "avgSquadSize": 34,
-      "avgEnemySize": 45
-    }
-  },
-  {
-    "id": "20260831-201643-axih",
-    "title": "Meester Dopie",
-    "commanders": [
-      "Meester Dopie"
-    ],
-    "guild": {
-      "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
-      "name": "Eye Of Tyria",
-      "tag": "EYE"
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-03T01:11:38.000Z",
+      "dateEnd": "2026-09-03T02:45:58.653Z",
+      "dateLabel": "9/2/2026, 8:11:38 PM - 9/2/2026, 9:45:58 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260902-201138-0qse",
+      "summary": {
+        "borderlandsPct": 0.08695652173913043,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 45
+      }
     },
-    "dateStart": "2026-09-01T01:16:43.000Z",
-    "dateEnd": "2026-09-01T02:16:03.431Z",
-    "dateLabel": "8/31/2026, 8:16:43 PM - 8/31/2026, 9:16:03 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260831-201643-axih",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 35,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260831-201643-axih",
+      "title": "Meester Dopie",
+      "commanders": [
+        "Meester Dopie"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 42
-    }
-  },
-  {
-    "id": "20260830-202310-qe3s",
-    "title": "Meester Dopie, P L A T I N U M, Pixel Paper Doll",
-    "commanders": [
-      "Meester Dopie",
-      "P L A T I N U M",
-      "Pixel Paper Doll"
-    ],
-    "guild": {
-      "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
-      "name": "Eye Of Tyria",
-      "tag": "EYE"
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-01T01:16:43.000Z",
+      "dateEnd": "2026-09-01T02:16:03.431Z",
+      "dateLabel": "8/31/2026, 8:16:43 PM - 8/31/2026, 9:16:03 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260831-201643-axih",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 42
+      }
     },
-    "dateStart": "2026-08-31T01:23:10.000Z",
-    "dateEnd": "2026-08-31T04:19:02.802Z",
-    "dateLabel": "8/30/2026, 8:23:10 PM - 8/30/2026, 11:19:02 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260830-202310-qe3s",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 11,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 7,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260830-202310-qe3s",
+      "title": "Meester Dopie, P L A T I N U M, Pixel Paper Doll",
+      "commanders": [
+        "Meester Dopie",
+        "P L A T I N U M",
+        "Pixel Paper Doll"
       ],
-      "avgSquadSize": 39,
-      "avgEnemySize": 36
-    }
-  },
-  {
-    "id": "20260828-211724-c3ma",
-    "title": "P L A T I N U M",
-    "commanders": [
-      "P L A T I N U M"
-    ],
-    "guild": {
-      "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
-      "name": "Eye Of Tyria",
-      "tag": "EYE"
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-31T01:23:10.000Z",
+      "dateEnd": "2026-08-31T04:19:02.802Z",
+      "dateLabel": "8/30/2026, 8:23:10 PM - 8/30/2026, 11:19:02 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260830-202310-qe3s",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 36
+      }
     },
-    "dateStart": "2026-08-29T02:17:24.000Z",
-    "dateEnd": "2026-08-29T03:27:27.086Z",
-    "dateLabel": "8/28/2026, 9:17:24 PM - 8/28/2026, 10:27:27 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260828-211724-c3ma",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 36,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260828-211724-c3ma",
+      "title": "P L A T I N U M",
+      "commanders": [
+        "P L A T I N U M"
       ],
-      "avgSquadSize": 43,
-      "avgEnemySize": 72
-    }
-  },
-  {
-    "id": "20260824-202313-oaoq",
-    "title": "P L A T I N U M",
-    "commanders": [
-      "P L A T I N U M"
-    ],
-    "guild": {
-      "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
-      "name": "Eye Of Tyria",
-      "tag": "EYE"
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-29T02:17:24.000Z",
+      "dateEnd": "2026-08-29T03:27:27.086Z",
+      "dateLabel": "8/28/2026, 9:17:24 PM - 8/28/2026, 10:27:27 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260828-211724-c3ma",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 72
+      }
     },
-    "dateStart": "2026-08-25T01:23:13.000Z",
-    "dateEnd": "2026-08-25T02:44:29.543Z",
-    "dateLabel": "8/24/2026, 8:23:13 PM - 8/24/2026, 9:44:29 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260824-202313-oaoq",
-    "summary": {
-      "borderlandsPct": 0.85,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 10,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 6,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 3,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260824-202313-oaoq",
+      "title": "P L A T I N U M",
+      "commanders": [
+        "P L A T I N U M"
       ],
-      "avgSquadSize": 23,
-      "avgEnemySize": 30
-    }
-  },
-  {
-    "id": "20260821-210753-cw0t",
-    "title": "I N S A T I A B L E",
-    "commanders": [
-      "I N S A T I A B L E"
-    ],
-    "guild": {
-      "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
-      "name": "Eye Of Tyria",
-      "tag": "EYE"
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-25T01:23:13.000Z",
+      "dateEnd": "2026-08-25T02:44:29.543Z",
+      "dateLabel": "8/24/2026, 8:23:13 PM - 8/24/2026, 9:44:29 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260824-202313-oaoq",
+      "summary": {
+        "borderlandsPct": 0.85,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 30
+      }
     },
-    "dateStart": "2026-08-22T02:07:53.000Z",
-    "dateEnd": "2026-08-22T03:01:18.799Z",
-    "dateLabel": "8/21/2026, 9:07:53 PM - 8/21/2026, 10:01:18 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260821-210753-cw0t",
-    "summary": {
-      "borderlandsPct": 0.17647058823529413,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 28,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 3,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 3,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260821-210753-cw0t",
+      "title": "I N S A T I A B L E",
+      "commanders": [
+        "I N S A T I A B L E"
       ],
-      "avgSquadSize": 37,
-      "avgEnemySize": 50
-    }
-  },
-  {
-    "id": "20260817-201431-z9pw",
-    "title": "P L A T I N U M",
-    "commanders": [
-      "P L A T I N U M"
-    ],
-    "guild": {
-      "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
-      "name": "Eye Of Tyria",
-      "tag": "EYE"
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-22T02:07:53.000Z",
+      "dateEnd": "2026-08-22T03:01:18.799Z",
+      "dateLabel": "8/21/2026, 9:07:53 PM - 8/21/2026, 10:01:18 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260821-210753-cw0t",
+      "summary": {
+        "borderlandsPct": 0.17647058823529413,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 50
+      }
     },
-    "dateStart": "2026-08-18T01:14:31.000Z",
-    "dateEnd": "2026-08-18T02:12:15.000Z",
-    "dateLabel": "8/17/2026, 8:14:31 PM - 8/17/2026, 9:12:15 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260817-201431-z9pw",
-    "summary": {
-      "borderlandsPct": 0.045454545454545456,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 42,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 2,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260817-201431-z9pw",
+      "title": "P L A T I N U M",
+      "commanders": [
+        "P L A T I N U M"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 56
-    }
-  },
-  {
-    "id": "20260816-202335-yxph",
-    "title": "Meester Dopie",
-    "commanders": [
-      "Meester Dopie"
-    ],
-    "guild": {
-      "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
-      "name": "Eye Of Tyria",
-      "tag": "EYE"
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-18T01:14:31.000Z",
+      "dateEnd": "2026-08-18T02:12:15.000Z",
+      "dateLabel": "8/17/2026, 8:14:31 PM - 8/17/2026, 9:12:15 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260817-201431-z9pw",
+      "summary": {
+        "borderlandsPct": 0.045454545454545456,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 56
+      }
     },
-    "dateStart": "2026-08-17T01:23:35.000Z",
-    "dateEnd": "2026-08-17T02:17:01.000Z",
-    "dateLabel": "8/16/2026, 8:23:35 PM - 8/16/2026, 9:17:01 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260816-202335-yxph",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 37,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260816-202335-yxph",
+      "title": "Meester Dopie",
+      "commanders": [
+        "Meester Dopie"
       ],
-      "avgSquadSize": 23,
-      "avgEnemySize": 56
-    }
-  },
-  {
-    "id": "20260814-211114-bxnh",
-    "title": "P L A T I N U M",
-    "commanders": [
-      "P L A T I N U M"
-    ],
-    "guild": {
-      "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
-      "name": "Eye Of Tyria",
-      "tag": "EYE"
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-17T01:23:35.000Z",
+      "dateEnd": "2026-08-17T02:17:01.000Z",
+      "dateLabel": "8/16/2026, 8:23:35 PM - 8/16/2026, 9:17:01 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260816-202335-yxph",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 37,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 56
+      }
     },
-    "dateStart": "2026-08-15T02:11:14.000Z",
-    "dateEnd": "2026-08-15T03:26:27.000Z",
-    "dateLabel": "8/14/2026, 9:11:14 PM - 8/14/2026, 10:26:27 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260814-211114-bxnh",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 22,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 3,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260814-211114-bxnh",
+      "title": "P L A T I N U M",
+      "commanders": [
+        "P L A T I N U M"
       ],
-      "avgSquadSize": 38,
-      "avgEnemySize": 52
-    }
-  },
-  {
-    "id": "20260812-204816-n93b",
-    "title": "K A L A D Î N",
-    "commanders": [
-      "K A L A D Î N"
-    ],
-    "guild": {
-      "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
-      "name": "Eye Of Tyria",
-      "tag": "EYE"
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-15T02:11:14.000Z",
+      "dateEnd": "2026-08-15T03:26:27.000Z",
+      "dateLabel": "8/14/2026, 9:11:14 PM - 8/14/2026, 10:26:27 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260814-211114-bxnh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 52
+      }
     },
-    "dateStart": "2026-08-13T01:48:16.000Z",
-    "dateEnd": "2026-08-13T02:51:03.000Z",
-    "dateLabel": "8/12/2026, 8:48:16 PM - 8/12/2026, 9:51:03 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260812-204816-n93b",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 31,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260812-204816-n93b",
+      "title": "K A L A D Î N",
+      "commanders": [
+        "K A L A D Î N"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 42
-    }
-  },
-  {
-    "id": "20260810-201850-lcer",
-    "title": "Namí San",
-    "commanders": [
-      "Namí San"
-    ],
-    "guild": {
-      "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
-      "name": "Eye Of Tyria",
-      "tag": "EYE"
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-13T01:48:16.000Z",
+      "dateEnd": "2026-08-13T02:51:03.000Z",
+      "dateLabel": "8/12/2026, 8:48:16 PM - 8/12/2026, 9:51:03 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260812-204816-n93b",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 42
+      }
     },
-    "dateStart": "2026-08-11T01:18:50.000Z",
-    "dateEnd": "2026-08-11T02:26:47.000Z",
-    "dateLabel": "8/10/2026, 8:18:50 PM - 8/10/2026, 9:26:47 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260810-201850-lcer",
-    "summary": {
-      "borderlandsPct": 0.03225806451612903,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 30,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 1,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260810-201850-lcer",
+      "title": "Namí San",
+      "commanders": [
+        "Namí San"
       ],
-      "avgSquadSize": 31,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260809-200922-sc2k",
-    "title": "Meester Dopie",
-    "commanders": [
-      "Meester Dopie"
-    ],
-    "dateStart": "2026-08-10T01:09:22.000Z",
-    "dateEnd": "2026-08-10T02:30:28.000Z",
-    "dateLabel": "8/9/2026, 8:09:22 PM - 8/9/2026, 9:30:28 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260809-200922-sc2k",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 38,
-          "color": "#3b82f6"
-        }
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-11T01:18:50.000Z",
+      "dateEnd": "2026-08-11T02:26:47.000Z",
+      "dateLabel": "8/10/2026, 8:18:50 PM - 8/10/2026, 9:26:47 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260810-201850-lcer",
+      "summary": {
+        "borderlandsPct": 0.03225806451612903,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 48
+      }
+    },
+    {
+      "id": "20260809-200922-sc2k",
+      "title": "Meester Dopie",
+      "commanders": [
+        "Meester Dopie"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 49
-    }
-  },
-  {
-    "id": "20260807-210841-61fn",
-    "title": "I N S A T I A B L E",
-    "commanders": [
-      "I N S A T I A B L E"
-    ],
-    "dateStart": "2026-08-08T02:08:41.000Z",
-    "dateEnd": "2026-08-08T03:03:57.000Z",
-    "dateLabel": "8/7/2026, 9:08:41 PM - 8/7/2026, 10:03:57 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260807-210841-61fn",
-    "summary": {
-      "borderlandsPct": 0.10810810810810811,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 33,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 3,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 1,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-08-10T01:09:22.000Z",
+      "dateEnd": "2026-08-10T02:30:28.000Z",
+      "dateLabel": "8/9/2026, 8:09:22 PM - 8/9/2026, 9:30:28 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260809-200922-sc2k",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 38,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 49
+      }
+    },
+    {
+      "id": "20260807-210841-61fn",
+      "title": "I N S A T I A B L E",
+      "commanders": [
+        "I N S A T I A B L E"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 55
-    }
-  },
-  {
-    "id": "20260805-200940-shoo",
-    "title": "N Á M Í",
-    "commanders": [
-      "N Á M Í"
-    ],
-    "dateStart": "2026-08-06T01:09:40.000Z",
-    "dateEnd": "2026-08-06T02:44:40.000Z",
-    "dateLabel": "8/5/2026, 8:09:40 PM - 8/5/2026, 9:44:40 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260805-200940-shoo",
-    "summary": {
-      "borderlandsPct": 0.2631578947368421,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 28,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 10,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-08-08T02:08:41.000Z",
+      "dateEnd": "2026-08-08T03:03:57.000Z",
+      "dateLabel": "8/7/2026, 9:08:41 PM - 8/7/2026, 10:03:57 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260807-210841-61fn",
+      "summary": {
+        "borderlandsPct": 0.10810810810810811,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 33,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 55
+      }
+    },
+    {
+      "id": "20260805-200940-shoo",
+      "title": "N Á M Í",
+      "commanders": [
+        "N Á M Í"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 49
-    }
-  },
-  {
-    "id": "20260803-201200-0g79",
-    "title": "P L A T I N U M",
-    "commanders": [
-      "P L A T I N U M"
-    ],
-    "dateStart": "2026-08-04T01:12:00.000Z",
-    "dateEnd": "2026-08-04T02:06:51.000Z",
-    "dateLabel": "8/3/2026, 8:12:00 PM - 8/3/2026, 9:06:51 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260803-201200-0g79",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 59,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-08-06T01:09:40.000Z",
+      "dateEnd": "2026-08-06T02:44:40.000Z",
+      "dateLabel": "8/5/2026, 8:09:40 PM - 8/5/2026, 9:44:40 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260805-200940-shoo",
+      "summary": {
+        "borderlandsPct": 0.2631578947368421,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 49
+      }
+    },
+    {
+      "id": "20260803-201200-0g79",
+      "title": "P L A T I N U M",
+      "commanders": [
+        "P L A T I N U M"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 44
-    }
-  },
-  {
-    "id": "20260731-210839-qahm",
-    "title": "D A N T E S Inferno",
-    "commanders": [
-      "D A N T E S Inferno"
-    ],
-    "dateStart": "2026-08-01T02:08:39.000Z",
-    "dateEnd": "2026-08-01T03:07:49.000Z",
-    "dateLabel": "7/31/2026, 9:08:39 PM - 7/31/2026, 10:07:49 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260731-210839-qahm",
-    "summary": {
-      "borderlandsPct": 0.05263157894736842,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 36,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 2,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-08-04T01:12:00.000Z",
+      "dateEnd": "2026-08-04T02:06:51.000Z",
+      "dateLabel": "8/3/2026, 8:12:00 PM - 8/3/2026, 9:06:51 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260803-201200-0g79",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 59,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 44
+      }
+    },
+    {
+      "id": "20260731-210839-qahm",
+      "title": "D A N T E S Inferno",
+      "commanders": [
+        "D A N T E S Inferno"
       ],
-      "avgSquadSize": 37,
-      "avgEnemySize": 60
-    }
-  },
-  {
-    "id": "20260729-221247-pms7",
-    "title": "N Á M Í",
-    "commanders": [
-      "N Á M Í"
-    ],
-    "dateStart": "2026-07-30T03:12:47.000Z",
-    "dateEnd": "2026-07-30T04:21:52.000Z",
-    "dateLabel": "7/29/2026, 10:12:47 PM - 7/29/2026, 11:21:52 PM",
-    "url": "https://hillze.github.io/GW2Logs/?report=20260729-221247-pms7",
-    "summary": {
-      "borderlandsPct": 0.55,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 18,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 17,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 5,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-08-01T02:08:39.000Z",
+      "dateEnd": "2026-08-01T03:07:49.000Z",
+      "dateLabel": "7/31/2026, 9:08:39 PM - 7/31/2026, 10:07:49 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260731-210839-qahm",
+      "summary": {
+        "borderlandsPct": 0.05263157894736842,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 60
+      }
+    },
+    {
+      "id": "20260729-221247-pms7",
+      "title": "N Á M Í",
+      "commanders": [
+        "N Á M Í"
       ],
-      "avgSquadSize": 22,
-      "avgEnemySize": 42
+      "dateStart": "2026-07-30T03:12:47.000Z",
+      "dateEnd": "2026-07-30T04:21:52.000Z",
+      "dateLabel": "7/29/2026, 10:12:47 PM - 7/29/2026, 11:21:52 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260729-221247-pms7",
+      "summary": {
+        "borderlandsPct": 0.55,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 42
+      }
     }
-  }
-]
+  ]
+}
