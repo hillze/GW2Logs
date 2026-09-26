@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260925-230339-b2s5",
+      "title": "Meester Dopie",
+      "commanders": [
+        "Meester Dopie"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-26T04:03:39.000Z",
+      "dateEnd": "2026-09-26T05:21:38.584Z",
+      "dateLabel": "9/25/2026, 11:03:39 PM - 9/26/2026, 12:21:38 AM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260925-230339-b2s5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 59
+      }
+    },
+    {
       "id": "20260923-200829-o4vv",
       "title": "Pixel Paper Doll",
       "commanders": [
