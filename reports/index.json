@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260928-201349-1meb",
+      "title": "Dantes Infernö",
+      "commanders": [
+        "Dantes Infernö"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-29T01:13:49.000Z",
+      "dateEnd": "2026-09-29T02:17:31.599Z",
+      "dateLabel": "9/28/2026, 8:13:49 PM - 9/28/2026, 9:17:31 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20260928-201349-1meb",
+      "summary": {
+        "borderlandsPct": 0.05405405405405406,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260927-200640-szh5",
       "title": "D A N T E S Inferno, I N S A T I A B L E",
       "commanders": [
