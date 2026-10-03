@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20261002-221830-gd3g",
+      "title": "Pixel Paper Doll",
+      "commanders": [
+        "Pixel Paper Doll"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-10-03T03:18:30.000Z",
+      "dateEnd": "2026-10-03T04:57:23.353Z",
+      "dateLabel": "10/2/2026, 10:18:30 PM - 10/2/2026, 11:57:23 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20261002-221830-gd3g",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260928-201349-1meb",
       "title": "Dantes Infernö",
       "commanders": [
