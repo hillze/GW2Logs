@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.10"
+    "version": "3.22.12"
   },
   "entries": [
+    {
+      "id": "20261111-191122-2slt",
+      "title": "Jûst The Tîp",
+      "commanders": [
+        "Jûst The Tîp"
+      ],
+      "guild": {
+        "id": "A8FD5C4C-1602-4F24-8246-7B2DB1497E34",
+        "name": "Adventures In The Myst",
+        "tag": "Myst"
+      },
+      "dateStart": "2026-11-12T01:11:22.000Z",
+      "dateEnd": "2026-11-12T02:03:20.318Z",
+      "dateLabel": "11/11/2026, 7:11:22 PM - 11/11/2026, 8:03:20 PM",
+      "url": "https://hillze.github.io/GW2Logs/?report=20261111-191122-2slt",
+      "publishedBy": "hillze",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 39
+      }
+    },
     {
       "id": "20261030-210837-hu65",
       "title": "P L A T I N U M",
